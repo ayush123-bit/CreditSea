@@ -144,7 +144,7 @@ NODE_ENV=development
 Create a `.env` file in the `frontend` directory:
 
 ```env
-VITE_API_URL=http://localhost:5000/api
+REACT_APP_API_URL=http://localhost:5000/api
 ```
 
 5. **Start MongoDB**
