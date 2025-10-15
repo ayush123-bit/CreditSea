@@ -341,24 +341,29 @@ The parser intelligently handles:
 ## 📸 Screenshots
 
 ### Upload Page
-![Upload Page](https://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Upload+Page+Screenshot)
+![Upload Page](ht<img width="1914" height="905" alt="Screenshot 2025-10-15 164508" src="https://github.com/user-attachments/assets/10328041-e4ca-416f-8856-e87a49281cd5" />
+tps://via.placeholder.com/800x500/0EA5E9/FFFFFF?text=Upload+Page+Screenshot)
 
 *Beautiful drag-and-drop interface with multi-bureau support*
 
 ### Credit Score Display
-![Credit Score](https://via.placeholder.com/800x300/3B82F6/FFFFFF?text=Credit+Score+Hero+Section)
+![Credit Scor<img width="1121" height="723" alt="Screenshot 2025-10-15 164421" src="https://github.com/user-attachments/assets/7655f09c-b334-42af-ba9f-ec8dc8b033a7" />
+e](https://via.placeholder.com/800x300/3B82F6/FFFFFF?text=Credit+Score+Hero+Section)
 
 *Prominent credit score display with rating*
 
 ### Report Summary
 ![Report Summary](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Account+Summary+Cards)
+<img width="1236" height="434" alt="Screenshot 2025-10-15 164435" src="https://github.com/user-attachments/assets/085cfcdf-a8c4-4c4e-9d64-8b309dcb7037" />
 
 *Comprehensive account summary with visual stats*
+
 
 ### Account Details
 ![Account Details](https://via.placeholder.com/800x600/8B5CF6/FFFFFF?text=Detailed+Account+Information)
 
 *Detailed breakdown of all credit accounts*
+<img width="1134" height="769" alt="Screenshot 2025-10-15 164452" src="https://github.com/user-attachments/assets/3cf5f3b5-803b-4bc8-9f86-d90a6e383c19" />
 
 ---
 
