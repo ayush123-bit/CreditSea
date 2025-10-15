@@ -165,7 +165,7 @@ npm run dev
 
 ```bash
 cd frontend
-npm run dev
+npm start
 ```
 
 8. **Open your browser**
