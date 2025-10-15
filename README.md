@@ -1,4 +1,4 @@
-# 🏦 CreditSea - Credit Report Parser
+#  CreditSea - Credit Report Parser
 
 <div align="center">
 
@@ -14,7 +14,7 @@ A modern, secure web application for parsing and analyzing credit bureau XML rep
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -32,7 +32,7 @@ A modern, secure web application for parsing and analyzing credit bureau XML rep
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **CreditSea** is a comprehensive credit report parsing solution that allows users to upload XML files from various credit bureaus and instantly receive a beautifully formatted, easy-to-understand credit report analysis.
 
@@ -46,7 +46,7 @@ A modern, secure web application for parsing and analyzing credit bureau XML rep
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Features
 
@@ -76,7 +76,7 @@ CreditSea extracts and displays:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -98,7 +98,7 @@ CreditSea extracts and displays:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -174,7 +174,7 @@ Navigate to `http://localhost:5173` (or the port shown in your terminal)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 CreditSea/
@@ -214,7 +214,7 @@ CreditSea/
 
 ---
 
-## 📡 API Documentation
+##  API Documentation
 
 ### Base URL
 
@@ -299,7 +299,7 @@ Retrieve a specific credit report by ID.
 
 ---
 
-## 🔧 XML Format Support
+## XML Format Support
 
 CreditSea automatically detects and parses XML reports from:
 
@@ -338,7 +338,7 @@ The parser intelligently handles:
 
 ---
 
-📸 Screenshots
+## Screenshots
 Upload Page
 <p align="center"> <img src="https://github.com/user-attachments/assets/10328041-e4ca-416f-8856-e87a49281cd5" width="800" alt="Upload Page Screenshot"> </p>
 
@@ -374,11 +374,11 @@ Detailed breakdown of all credit accounts
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `VITE_API_URL` | Backend API URL | `http://localhost:5000/api` |
+| `REACT_APP_API_URL` | Backend API URL | `http://localhost:5000/api` |
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Frontend Deployment (Netlify)
 
@@ -425,41 +425,14 @@ git push heroku main
 
 Update frontend `.env` with production API URL:
 ```env
-VITE_API_URL=https://your-backend-api.com/api
+REACT_APP_API_URL=https://your-backend-api.com/api
 ```
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
 
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow the existing code style
-- Write meaningful commit messages
-- Add comments for complex logic
-- Test thoroughly before submitting
-- Update documentation as needed
-
----
-
-## 🐛 Known Issues & Limitations
+##  Known Issues & Limitations
 
 - ⚠️ Large XML files (>10MB) may take longer to process
 - ⚠️ Some custom XML formats may not be fully supported
@@ -467,7 +440,7 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Add PDF export functionality
 - [ ] Implement user authentication
@@ -486,7 +459,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Contact
+## Contact
 
 **Ayush** - [@ayush123-bit](https://github.com/ayush123-bit)
 
@@ -496,7 +469,7 @@ Live Demo: [https://musical-rabanadas-ba6d4c.netlify.app/](https://musical-raban
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [React](https://reactjs.org/) - UI Framework
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
@@ -509,7 +482,7 @@ Live Demo: [https://musical-rabanadas-ba6d4c.netlify.app/](https://musical-raban
 
 <div align="center">
 
-### ⭐ Star this repository if you find it helpful!
+### Star this repository if you find it helpful!
 
 Made with ❤️ by [Ayush](https://github.com/ayush123-bit)
 
